@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyTorch checkpoints
+train_models/*.pt
+train_models/*.pth
+
+# TensorBoard logs
+tensorboard/
+
+# Dataset
+data/
+animals/
+
+# Output
+output.mp4
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
